@@ -1,0 +1,28 @@
+{
+  "name": "aplicacion-subscripcion",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.1.2",
+    "@material-ui/icons": "^3.0.1",
+    "card-validator": "^5.1.0",
+    "country-list": "^1.1.0",
+    "cross-env": "^5.2.0",
+    "material-ui": "^0.20.2",
+    "react": "^16.5.1",
+    "react-credit-card-input": "^1.0.15",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.5.2",
+    "react-material-ui-form-validator": "^2.0.2",
+    "react-payment": "^0.1.8",
+    "react-scripts": "1.1.5",
+    "validate-js": "^2.0.1",
+    "validator": "^10.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
